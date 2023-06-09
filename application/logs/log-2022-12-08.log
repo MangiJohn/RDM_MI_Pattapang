@@ -1,0 +1,4 @@
+ERROR - 2022-12-08 09:34:38 --> Query error: Duplicate entry 'VDBEaWZzYTdIcEZjWDFRMUw5YmhVdz09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
+ERROR - 2022-12-08 09:37:49 --> Query error: Duplicate entry 'VDBEaWZzYTdIcEZjWDFRMUw5YmhVdz09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
+ERROR - 2022-12-08 10:40:33 --> Query error: Duplicate entry 'VDBEaWZzYTdIcEZjWDFRMUw5YmhVdz09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
+ERROR - 2022-12-08 21:46:07 --> Query error: Duplicate entry 'VDBEaWZzYTdIcEZjWDFRMUw5YmhVdz09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);

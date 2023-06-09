@@ -1,0 +1,1 @@
+ERROR - 2023-01-10 11:33:58 --> Query error: Duplicate entry 'VDBEaWZzYTdIcEZjWDFRMUw5YmhVdz09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
